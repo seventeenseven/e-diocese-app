@@ -1,0 +1,58 @@
+[
+  {
+    "num_code": "384",
+    "alpha_2_code": "CI",
+    "alpha_3_code": "CIV",
+    "en_short_name": "Côte d'Ivoire",
+    "nationality": "Ivorian",
+    "dial_code": "+225"
+  },
+  {
+    "num_code": "204",
+    "alpha_2_code": "BJ",
+    "alpha_3_code": "BEN",
+    "en_short_name": "Benin",
+    "nationality": "Beninese, Beninois",
+    "dial_code": "+229"
+  },
+  {
+    "num_code": "768",
+    "alpha_2_code": "TG",
+    "alpha_3_code": "TGO",
+    "en_short_name": "Togo",
+    "nationality": "Togolese",
+    "dial_code": "+228"
+  },
+  {
+    "num_code": "466",
+    "alpha_2_code": "ML",
+    "alpha_3_code": "MLI",
+    "en_short_name": "Mali",
+    "nationality": "Malian, Malinese",
+    "dial_code": "+223"
+  },
+  {
+    "num_code": "686",
+    "alpha_2_code": "SN",
+    "alpha_3_code": "SEN",
+    "en_short_name": "Senegal",
+    "nationality": "Senegalese",
+    "dial_code": "+221"
+  },
+  {
+    "num_code": "288",
+    "alpha_2_code": "GH",
+    "alpha_3_code": "GHA",
+    "en_short_name": "Ghana",
+    "nationality": "Ghanaian",
+    "dial_code": "+233"
+  },
+  {
+    "num_code": "120",
+    "alpha_2_code": "CM",
+    "alpha_3_code": "CMR",
+    "en_short_name": "Cameroon",
+    "nationality": "Cameroonian",
+    "dial_code": "+237"
+  }
+]
